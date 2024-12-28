@@ -59,6 +59,3 @@ Contribution
 
 We welcome contributions to improve the project! Please fork the repository, create a branch, and submit a pull request.
 
-License
-
-This project is licensed under the MIT Licence.
